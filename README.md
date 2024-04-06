@@ -11,11 +11,10 @@
 ###
 
 <p align="left">✨ Creating <br>
-  📚 I'm currently learning Java. <br>
+  📚 I'm currently learning Java and Spring Boot. <br>
   🎯 Goals: <br>
   <li>Revamp SmartKits in Java Spring Boot Framework</li>
-  <li>Learn React Native</li>
-  <li>Share Google Sheet formula use cases</li>
+  <li>Share Google Sheet formula use cases on GitHub</li>
   <li>Share how Python helps automation and data processing</li>
   <br>
   🎲 Fun facts: <br>
@@ -39,19 +38,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
   <img width="12" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />    
   <img width="12" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
@@ -59,8 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="json logo"  />
-  <img width="12" />       
-  <br>        
+  <img width="12" />             
 </div>
+
+<br>
+
+<img align="left" src="https://camo.githubusercontent.com/033a0a19bd2d07dab909581c31cd29950373c522e9f63af20b49cd0b03939982/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6d756b73616d2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="muksam" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=muksam&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 ###
