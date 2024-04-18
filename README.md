@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hilary. I'm a Data Analyst at a healthtech start-up. I'm a coding enthusiast since 12.</p>
+<p align="left">My name is Hilary. I used to be a Data Analyst at a healthtech start-up. I'm a coding enthusiast since 12.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating <br>
+<p align="left">✨ Creating bugs (or buffs?)... <br>
   📚 I'm currently learning Java and Spring Boot. <br>
   🎯 Goals: <br>
   <li>Revamp SmartKits in Java Spring Boot Framework</li>
